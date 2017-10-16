@@ -10,12 +10,14 @@ private:
 
 Neuron neuron1;
 Neuron neuron2;
-double time;  
+double clock; 
+double H; 
 
 public: 
-Network (Neuron n1, Neuron n2, double t);
+Network (Neuron n1, Neuron n2, double t, double h);
 void setTime(double t); 
-void connexionNeurons(double tmin, double tmax, double i);
+void simulationloop1(double tmin, double tmax, double i);
+void simulationloop2(double tmin, double tmax, double i);
 ~Network(); 
 
 } ;

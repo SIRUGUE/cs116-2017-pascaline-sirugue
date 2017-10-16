@@ -1,97 +1,463 @@
-1
-1.3
-1.6
-1.9
-2.2
-2.5
-2.8
-3.1
-3.4
-3.7
-4
-4.3
-4.6
-4.9
-5.2
-5.5
-5.8
-6.1
-6.4
-6.7
-7
-7.3
-7.6
-7.9
-8.2
-8.5
-8.8
-9.1
-9.4
-9.7
-10
-10.3
-10.6
-10.9
-11.2
-11.5
-11.8
-12.1
-12.4
-12.7
-13
-13.3
-13.6
-13.9
-14.2
-14.5
-14.8
-15.1
-15.4
-15.7
-16
-16.3
-16.6
-16.9
-17.2
-17.5
-17.8
-18.1
-18.4
-18.7
-19
-19.3
-19.6
-19.9
-20.2
-20.5
-20.8
-21.1
-21.4
-21.7
-22
-22.3
-22.6
-22.9
-23.2
-23.5
-23.8
-24.1
-24.4
-24.7
-25
-25.3
-25.6
-25.9
-26.2
-26.5
-26.8
-27.1
-27.4
-27.7
-28
-28.3
-28.6
-28.9
-29.2
-29.5
-29.8
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1.4  potential membrane 24.6901
+time spikes : 3.9  potential membrane 24.6901
+time spikes : 6.4  potential membrane 24.6901
+time spikes : 8.9  potential membrane 24.6901
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1.4  potential membrane 24.6901
+time spikes : 3.9  potential membrane 24.6901
+time spikes : 6.4  potential membrane 24.6901
+time spikes : 8.9  potential membrane 24.6901
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 11.5  potential membrane 4.98752
+time spikes : 13.6  potential membrane 4.98752
+time spikes : 15.7  potential membrane 4.98752
+time spikes : 17.8  potential membrane 4.98752
+time spikes : 19.9  potential membrane 4.98752
+time spikes : 22  potential membrane 4.98752
+time spikes : 24.1  potential membrane 4.98752
+time spikes : 26.2  potential membrane 4.98752
+time spikes : 28.3  potential membrane 4.98752
+time spikes : 30.4  potential membrane 4.98752
+time spikes : 32.5  potential membrane 4.98752
+time spikes : 34.6  potential membrane 4.98752
+time spikes : 36.7  potential membrane 4.98752
+time spikes : 38.8  potential membrane 4.98752
+time spikes : 40.9  potential membrane 4.98752
+time spikes : 43  potential membrane 4.98752
+time spikes : 45.1  potential membrane 4.98752
+time spikes : 47.2  potential membrane 4.98752
+time spikes : 49.3  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 0  potential membrane 4.98752
+time spikes : 0  potential membrane 4.98752
+time spikes : 2.1  potential membrane 4.98752
+time spikes : 2.1  potential membrane 4.98752
+time spikes : 4.2  potential membrane 4.98752
+time spikes : 4.2  potential membrane 4.98752
+time spikes : 6.3  potential membrane 4.98752
+time spikes : 6.3  potential membrane 4.98752
+time spikes : 8.4  potential membrane 4.98752
+time spikes : 8.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 5.2  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 7.3  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 9.4  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 3.1  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 5.2  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 7.3  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 9.4  potential membrane 14.9376
+time spikes : 1  potential membrane 5.98502
+time spikes : 1  potential membrane 5.98502
+time spikes : 3.1  potential membrane 6.08453
+time spikes : 3.1  potential membrane 6.08453
+time spikes : 5.2  potential membrane 6.08453
+time spikes : 5.2  potential membrane 6.08453
+time spikes : 7.3  potential membrane 6.08453
+time spikes : 7.3  potential membrane 6.08453
+time spikes : 9.4  potential membrane 6.08453
+time spikes : 9.4  potential membrane 6.08453
+time spikes : 11.5  potential membrane 6.08453
+time spikes : 11.5  potential membrane 6.08453
+time spikes : 13.6  potential membrane 6.08453
+time spikes : 13.6  potential membrane 6.08453
+time spikes : 15.7  potential membrane 6.08453
+time spikes : 15.7  potential membrane 6.08453
+time spikes : 17.8  potential membrane 6.08453
+time spikes : 17.8  potential membrane 6.08453
+time spikes : 19.9  potential membrane 6.08453
+time spikes : 19.9  potential membrane 6.08453
+time spikes : 22  potential membrane 6.08453
+time spikes : 22  potential membrane 6.08453
+time spikes : 24.1  potential membrane 6.08453
+time spikes : 24.1  potential membrane 6.08453
+time spikes : 26.2  potential membrane 6.08453
+time spikes : 26.2  potential membrane 6.08453
+time spikes : 28.3  potential membrane 6.08453
+time spikes : 28.3  potential membrane 6.08453
+time spikes : 30.4  potential membrane 6.08453
+time spikes : 30.4  potential membrane 6.08453
+time spikes : 32.5  potential membrane 6.08453
+time spikes : 32.5  potential membrane 6.08453
+time spikes : 34.6  potential membrane 6.08453
+time spikes : 34.6  potential membrane 6.08453
+time spikes : 36.7  potential membrane 6.08453
+time spikes : 36.7  potential membrane 6.08453
+time spikes : 38.8  potential membrane 6.08453
+time spikes : 38.8  potential membrane 6.08453
+time spikes : 40.9  potential membrane 6.08453
+time spikes : 40.9  potential membrane 6.08453
+time spikes : 43  potential membrane 6.08453
+time spikes : 43  potential membrane 6.08453
+time spikes : 45.1  potential membrane 6.08453
+time spikes : 45.1  potential membrane 6.08453
+time spikes : 47.2  potential membrane 6.08453
+time spikes : 47.2  potential membrane 6.08453
+time spikes : 49.3  potential membrane 6.08453
+time spikes : 49.3  potential membrane 6.08453
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 5.08702
+time spikes : 3.1  potential membrane 5.08702
+time spikes : 5.2  potential membrane 5.08702
+time spikes : 5.2  potential membrane 5.08702
+time spikes : 7.3  potential membrane 5.08702
+time spikes : 7.3  potential membrane 5.08702
+time spikes : 9.4  potential membrane 5.08702
+time spikes : 9.4  potential membrane 5.08702
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 4.98752
+time spikes : 3.1  potential membrane 5.08702
+time spikes : 3.1  potential membrane 5.08702
+time spikes : 5.2  potential membrane 5.08702
+time spikes : 5.2  potential membrane 5.08702
+time spikes : 7.3  potential membrane 5.08702
+time spikes : 7.3  potential membrane 5.08702
+time spikes : 9.4  potential membrane 5.08702
+time spikes : 9.4  potential membrane 5.08702
+time spikes : 1  potential membrane 3.99002
+time spikes : 1  potential membrane 3.99002
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 1  potential membrane 3.99002
+time spikes : 1  potential membrane 3.99002
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 5.2  potential membrane 4.08952
+time spikes : 5.2  potential membrane 4.08952
+time spikes : 7.3  potential membrane 4.08952
+time spikes : 7.3  potential membrane 4.08952
+time spikes : 9.4  potential membrane 4.08952
+time spikes : 9.4  potential membrane 4.08952
+time spikes : 1  potential membrane 3.99002
+time spikes : 1  potential membrane 3.99002
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 5.2  potential membrane 4.08952
+time spikes : 5.2  potential membrane 4.08952
+time spikes : 7.3  potential membrane 4.08952
+time spikes : 7.3  potential membrane 4.08952
+time spikes : 9.4  potential membrane 4.08952
+time spikes : 9.4  potential membrane 4.08952
+time spikes : 1  potential membrane 3.99002
+time spikes : 1  potential membrane 3.99002
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 3.1  potential membrane 4.08952
+time spikes : 5.2  potential membrane 4.08952
+time spikes : 5.2  potential membrane 4.08952
+time spikes : 7.3  potential membrane 4.08952
+time spikes : 7.3  potential membrane 4.08952
+time spikes : 9.4  potential membrane 4.08952
+time spikes : 9.4  potential membrane 4.08952
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 0
+time spikes : 3.1  potential membrane 5.08752
+time spikes : 3.1  potential membrane 0.1
+time spikes : 5.2  potential membrane 5.18752
+time spikes : 5.2  potential membrane 0.2
+time spikes : 7.3  potential membrane 5.38752
+time spikes : 7.3  potential membrane 0.4
+time spikes : 9.4  potential membrane 5.48752
+time spikes : 9.4  potential membrane 0.5
+time spikes : 1  potential membrane 3.99002
+time spikes : 1  potential membrane 0
+time spikes : 3.1  potential membrane 4.09002
+time spikes : 3.1  potential membrane 0.1
+time spikes : 5.2  potential membrane 4.19002
+time spikes : 5.2  potential membrane 0.2
+time spikes : 7.3  potential membrane 4.29002
+time spikes : 7.3  potential membrane 0.4
+time spikes : 9.4  potential membrane 4.59002
+time spikes : 9.4  potential membrane 0.6
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 0
+time spikes : 3.1  potential membrane 5.08752
+time spikes : 3.1  potential membrane 0.1
+time spikes : 5.2  potential membrane 5.18752
+time spikes : 5.2  potential membrane 0.2
+time spikes : 7.3  potential membrane 5.28752
+time spikes : 7.3  potential membrane 0.4
+time spikes : 9.4  potential membrane 5.58752
+time spikes : 9.4  potential membrane 0.6
+time spikes : 1  potential membrane 4.98752
+time spikes : 1  potential membrane 0
+time spikes : 3.1  potential membrane 5.08752
+time spikes : 3.1  potential membrane 0.1
+time spikes : 5.2  potential membrane 5.18752
+time spikes : 5.2  potential membrane 0.2
+time spikes : 7.3  potential membrane 5.28752
+time spikes : 7.3  potential membrane 0.4
+time spikes : 9.4  potential membrane 5.58752
+time spikes : 9.4  potential membrane 0.6
+time spikes : 0  potential membrane 4.98752
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 5.08752
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 5.18752
+time spikes : 4.2  potential membrane 0.2
+time spikes : 6.3  potential membrane 5.38752
+time spikes : 6.3  potential membrane 0.4
+time spikes : 8.4  potential membrane 5.48752
+time spikes : 8.4  potential membrane 0.5
+time spikes : 0  potential membrane 4.98752
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 5.08752
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 5.18752
+time spikes : 4.2  potential membrane 0.2
+time spikes : 6.3  potential membrane 5.38752
+time spikes : 6.3  potential membrane 0.4
+time spikes : 8.4  potential membrane 5.48752
+time spikes : 8.4  potential membrane 0.5
+time spikes : 0  potential membrane 4.98752
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 5.08752
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 5.18752
+time spikes : 4.2  potential membrane 0.2
+time spikes : 6.3  potential membrane 5.38752
+time spikes : 6.3  potential membrane 0.4
+time spikes : 8.4  potential membrane 5.48752
+time spikes : 8.4  potential membrane 0.5
+time spikes : 0  potential membrane 4.98752
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 5.08752
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 5.18752
+time spikes : 4.2  potential membrane 0.2
+time spikes : 6.3  potential membrane 5.38752
+time spikes : 6.3  potential membrane 0.4
+time spikes : 8.4  potential membrane 5.48752
+time spikes : 8.4  potential membrane 0.5
+time spikes : 0  potential membrane 4.98752
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 5.08752
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 5.18752
+time spikes : 4.2  potential membrane 0.2
+time spikes : 6.3  potential membrane 5.38752
+time spikes : 6.3  potential membrane 0.4
+time spikes : 8.4  potential membrane 5.48752
+time spikes : 8.4  potential membrane 0.5
+time spikes : 0  potential membrane 3.99002
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 4.09002
+time spikes : 2.1  potential membrane 0.1
+time spikes : 0  potential membrane 4.98752
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 5.08752
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 5.18752
+time spikes : 4.2  potential membrane 0.2
+time spikes : 6.3  potential membrane 5.38752
+time spikes : 6.3  potential membrane 0.4
+time spikes : 8.4  potential membrane 5.48752
+time spikes : 8.4  potential membrane 0.5
+time spikes : 0  potential membrane 2.99251
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 3.09251
+time spikes : 2.1  potential membrane 0.1
+time spikes : 0.4  potential membrane 24.6901
+time spikes : 2.9  potential membrane 24.8866
+time spikes : 0  potential membrane 1.99501
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 2.09501
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 2.19501
+time spikes : 4.2  potential membrane 0.2
+time spikes : 0  potential membrane 2.99251
+time spikes : 0  potential membrane 0
+time spikes : 2.1  potential membrane 3.09251
+time spikes : 2.1  potential membrane 0.1
+time spikes : 4.2  potential membrane 3.19251
+time spikes : 4.2  potential membrane 0.2
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3  potential membrane 20.1481
+time spikes : 0.6  potential membrane 20.6368
+time spikes : 3.3  potential membrane 21.0279
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3  potential membrane 20.1481
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 0.6  potential membrane 20.6368
+time spikes : 3.3  potential membrane 20.6368
+time spikes : 0.6  potential membrane 20.6368
+time spikes : 3.3  potential membrane 20.6368
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 0.6  potential membrane 20.6368
+time spikes : 3.3  potential membrane 20.6368
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 5.7  potential membrane 23.6436
+time spikes : 0.4  potential membrane 24.6901
+time spikes : 2.9  potential membrane 24.6901
+time spikes : 5.4  potential membrane 24.6901
+time spikes : 0  potential membrane 0
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 2.1  potential membrane 0
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 4.2  potential membrane 0
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 0.4  potential membrane 24.6901
+time spikes : 2.9  potential membrane 24.6901
+time spikes : 1  potential membrane 21.4059
+time spikes : 4.1  potential membrane 21.4059
+time spikes : 7.2  potential membrane 21.4059
+time spikes : 0.6  potential membrane 20.6368
+time spikes : 3.3  potential membrane 20.6368
+time spikes : 6  potential membrane 20.6368
+time spikes : 8.7  potential membrane 20.6368
+time spikes : 0.5  potential membrane 23.6436
+time spikes : 3.1  potential membrane 23.6436
+time spikes : 5.7  potential membrane 23.6436
+time spikes : 0.6  potential membrane 20.6368
+time spikes : 3.3  potential membrane 20.6368
+time spikes : 6  potential membrane 20.6368
+time spikes : 0.5  membrane potential 23.6436
+time spikes : 3.1  membrane potential 23.6436
+time spikes : 5.7  membrane potential 23.6436
