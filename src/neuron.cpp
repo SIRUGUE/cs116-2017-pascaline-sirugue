@@ -8,6 +8,10 @@ using namespace std;
 //CONSTRUCTOR
 Neuron:: Neuron (double MP=0.0, int NS=0, double TS=0.0, int TR=0, double j=0.1, double i=0.0, double d=1.5 ) 
          : MembranePotential(MP), NbSpikes(NS), TimeSpikes(TS), TimeRefractory(TR), J(j), Iext (i), delay (d), buffer (16, 0.0) { } 
+
+Neuron :: Neuron (double i) {
+	Iext = i;
+}
  
 // GETTERS        
 double Neuron:: getMembranePotential() const {
@@ -66,6 +70,10 @@ void Neuron:: setTimeSpikes (double TS){
 void Neuron:: setTimeRefractory (int TR){
 	TimeRefractory = TR; 
     }
+
+void Neuron :: setI (double i) {
+	Iext = i ;
+	}
  
 // UPDATE MEMBRANE POTENTIAL ACCORDING TO FORMULA 
 void Neuron:: updateMembranePotential (){

@@ -1,5 +1,7 @@
 #include <iostream>
+#include <cmath>
 #include "network.hpp"
+
 
 using namespace std; 
 
@@ -35,9 +37,9 @@ void Network :: simulationloop2(double tmin, double tmax, double i) {
 	clock=tmin;
 	
 	while (clock<tmax){
-	int n1 = static_cast<int> ((clock + neuron1.getDelay())/H) ;
+	int n1 (floor((clock + neuron1.getDelay())/H)) ;
 	int m1 (n1%16) ;
-	int n2 = static_cast<int> ((clock+neuron2.getDelay())/H);
+	int n2 = floor (((clock+neuron2.getDelay())/H));
 	int m2 (n2%16) ;
 	cout <<" m  " << m1 << endl ; 
 	 

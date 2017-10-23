@@ -24,6 +24,7 @@ const double h=0.1;
 
 public :
 Neuron (double MP, int NS, double TS, int TR, double j, double i, double d);
+Neuron (double i);
 double getMembranePotential() const;
 int getNbSpikes() const; 
 int getTimeRefractory() const;
@@ -38,6 +39,7 @@ void setMembranePotential(double MP);
 void setNbSpikes(int NP);
 void setTimeSpikes(double TS);
 void setTimeRefractory (int TimeRefractory);
+void setI (double i);
 void updateMembranePotential (); 
 void write();
 bool IsSpiking();

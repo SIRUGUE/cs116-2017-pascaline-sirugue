@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/main.cpp
+iostream
+-
+fstream
+-
+neuron.hpp
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.hpp
+network.hpp
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.hpp
+
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.cpp
+iostream
+-
+cmath
+-
+network.hpp
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.hpp
+
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.hpp
+neuron.hpp
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.hpp
+
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+neuron.hpp
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.hpp
+
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.hpp
+vector
+-
+

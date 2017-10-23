@@ -1,16 +1,15 @@
 #include <iostream>
 #include <fstream>
-#include "neuron.cpp"
-#include "network.cpp"
+#include "neuron.hpp"
+#include "network.hpp"
 
 using namespace std;
 
 int main ()
 
 {
-Neuron neuron1; 
-Neuron neuron2;
-Network network (neuron1, neuron2, 0.0);
+
+Network network (neuron1, neuron2, 0.0, 0.1);
 double tmin; 
 double tmax; 
 double i;
