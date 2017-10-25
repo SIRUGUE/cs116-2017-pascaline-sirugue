@@ -30,6 +30,7 @@ CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-p
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-string.h
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-type-util.h
+CMakeFiles/unit_test.dir/unitTest.cpp.o: ../network.hpp
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../neuron.hpp
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../unitTest.cpp
 

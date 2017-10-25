@@ -309,6 +309,8 @@ iostream
 -
 neuron.hpp
 /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.hpp
+network.hpp
+/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.hpp
 gtest/gtest.h
 /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/gtest/gtest.h
 
