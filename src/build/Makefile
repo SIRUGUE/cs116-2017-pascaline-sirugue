@@ -241,6 +241,33 @@ neuron.cpp.s:
 	$(MAKE) -f CMakeFiles/unit_test.dir/build.make CMakeFiles/unit_test.dir/neuron.cpp.s
 .PHONY : neuron.cpp.s
 
+twoneurons.o: twoneurons.cpp.o
+.PHONY : twoneurons.o
+
+# target to build an object file
+twoneurons.cpp.o:
+	$(MAKE) -f CMakeFiles/neuron.dir/build.make CMakeFiles/neuron.dir/twoneurons.cpp.o
+	$(MAKE) -f CMakeFiles/unit_test.dir/build.make CMakeFiles/unit_test.dir/twoneurons.cpp.o
+.PHONY : twoneurons.cpp.o
+
+twoneurons.i: twoneurons.cpp.i
+.PHONY : twoneurons.i
+
+# target to preprocess a source file
+twoneurons.cpp.i:
+	$(MAKE) -f CMakeFiles/neuron.dir/build.make CMakeFiles/neuron.dir/twoneurons.cpp.i
+	$(MAKE) -f CMakeFiles/unit_test.dir/build.make CMakeFiles/unit_test.dir/twoneurons.cpp.i
+.PHONY : twoneurons.cpp.i
+
+twoneurons.s: twoneurons.cpp.s
+.PHONY : twoneurons.s
+
+# target to generate assembly for a file
+twoneurons.cpp.s:
+	$(MAKE) -f CMakeFiles/neuron.dir/build.make CMakeFiles/neuron.dir/twoneurons.cpp.s
+	$(MAKE) -f CMakeFiles/unit_test.dir/build.make CMakeFiles/unit_test.dir/twoneurons.cpp.s
+.PHONY : twoneurons.cpp.s
+
 unitTest.o: unitTest.cpp.o
 .PHONY : unitTest.o
 
@@ -287,6 +314,9 @@ help:
 	@echo "... neuron.o"
 	@echo "... neuron.i"
 	@echo "... neuron.s"
+	@echo "... twoneurons.o"
+	@echo "... twoneurons.i"
+	@echo "... twoneurons.s"
 	@echo "... unitTest.o"
 	@echo "... unitTest.i"
 	@echo "... unitTest.s"

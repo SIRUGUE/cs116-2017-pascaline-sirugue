@@ -72,9 +72,32 @@ CMakeFiles/neuron.dir/neuron.cpp.o.provides: CMakeFiles/neuron.dir/neuron.cpp.o.
 
 CMakeFiles/neuron.dir/neuron.cpp.o.provides.build: CMakeFiles/neuron.dir/neuron.cpp.o
 
+CMakeFiles/neuron.dir/twoneurons.cpp.o: CMakeFiles/neuron.dir/flags.make
+CMakeFiles/neuron.dir/twoneurons.cpp.o: ../twoneurons.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/neuron.dir/twoneurons.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/neuron.dir/twoneurons.cpp.o -c /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp
+
+CMakeFiles/neuron.dir/twoneurons.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/neuron.dir/twoneurons.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp > CMakeFiles/neuron.dir/twoneurons.cpp.i
+
+CMakeFiles/neuron.dir/twoneurons.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/neuron.dir/twoneurons.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp -o CMakeFiles/neuron.dir/twoneurons.cpp.s
+
+CMakeFiles/neuron.dir/twoneurons.cpp.o.requires:
+.PHONY : CMakeFiles/neuron.dir/twoneurons.cpp.o.requires
+
+CMakeFiles/neuron.dir/twoneurons.cpp.o.provides: CMakeFiles/neuron.dir/twoneurons.cpp.o.requires
+	$(MAKE) -f CMakeFiles/neuron.dir/build.make CMakeFiles/neuron.dir/twoneurons.cpp.o.provides.build
+.PHONY : CMakeFiles/neuron.dir/twoneurons.cpp.o.provides
+
+CMakeFiles/neuron.dir/twoneurons.cpp.o.provides.build: CMakeFiles/neuron.dir/twoneurons.cpp.o
+
 CMakeFiles/neuron.dir/network.cpp.o: CMakeFiles/neuron.dir/flags.make
 CMakeFiles/neuron.dir/network.cpp.o: ../network.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/neuron.dir/network.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/neuron.dir/network.cpp.o -c /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.cpp
 
@@ -97,7 +120,7 @@ CMakeFiles/neuron.dir/network.cpp.o.provides.build: CMakeFiles/neuron.dir/networ
 
 CMakeFiles/neuron.dir/main.cpp.o: CMakeFiles/neuron.dir/flags.make
 CMakeFiles/neuron.dir/main.cpp.o: ../main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/neuron.dir/main.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/neuron.dir/main.cpp.o -c /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/main.cpp
 
@@ -121,6 +144,7 @@ CMakeFiles/neuron.dir/main.cpp.o.provides.build: CMakeFiles/neuron.dir/main.cpp.
 # Object files for target neuron
 neuron_OBJECTS = \
 "CMakeFiles/neuron.dir/neuron.cpp.o" \
+"CMakeFiles/neuron.dir/twoneurons.cpp.o" \
 "CMakeFiles/neuron.dir/network.cpp.o" \
 "CMakeFiles/neuron.dir/main.cpp.o"
 
@@ -128,6 +152,7 @@ neuron_OBJECTS = \
 neuron_EXTERNAL_OBJECTS =
 
 neuron: CMakeFiles/neuron.dir/neuron.cpp.o
+neuron: CMakeFiles/neuron.dir/twoneurons.cpp.o
 neuron: CMakeFiles/neuron.dir/network.cpp.o
 neuron: CMakeFiles/neuron.dir/main.cpp.o
 neuron: CMakeFiles/neuron.dir/build.make
@@ -140,6 +165,7 @@ CMakeFiles/neuron.dir/build: neuron
 .PHONY : CMakeFiles/neuron.dir/build
 
 CMakeFiles/neuron.dir/requires: CMakeFiles/neuron.dir/neuron.cpp.o.requires
+CMakeFiles/neuron.dir/requires: CMakeFiles/neuron.dir/twoneurons.cpp.o.requires
 CMakeFiles/neuron.dir/requires: CMakeFiles/neuron.dir/network.cpp.o.requires
 CMakeFiles/neuron.dir/requires: CMakeFiles/neuron.dir/main.cpp.o.requires
 .PHONY : CMakeFiles/neuron.dir/requires

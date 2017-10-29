@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/main.cpp" "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles/neuron.dir/main.cpp.o"
   "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.cpp" "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles/neuron.dir/network.cpp.o"
   "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.cpp" "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles/neuron.dir/neuron.cpp.o"
+  "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp" "/home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles/neuron.dir/twoneurons.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

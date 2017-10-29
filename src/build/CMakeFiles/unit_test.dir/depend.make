@@ -8,6 +8,10 @@ CMakeFiles/unit_test.dir/network.cpp.o: ../neuron.hpp
 CMakeFiles/unit_test.dir/neuron.cpp.o: ../neuron.cpp
 CMakeFiles/unit_test.dir/neuron.cpp.o: ../neuron.hpp
 
+CMakeFiles/unit_test.dir/twoneurons.cpp.o: ../neuron.hpp
+CMakeFiles/unit_test.dir/twoneurons.cpp.o: ../twoneurons.cpp
+CMakeFiles/unit_test.dir/twoneurons.cpp.o: ../twoneurons.hpp
+
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/gtest-death-test.h
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/gtest-message.h
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/gtest-param-test.h
@@ -30,7 +34,7 @@ CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-p
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-string.h
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../gtest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/unit_test.dir/unitTest.cpp.o: ../network.hpp
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../neuron.hpp
+CMakeFiles/unit_test.dir/unitTest.cpp.o: ../twoneurons.hpp
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../unitTest.cpp
 

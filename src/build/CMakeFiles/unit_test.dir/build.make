@@ -72,9 +72,32 @@ CMakeFiles/unit_test.dir/neuron.cpp.o.provides: CMakeFiles/unit_test.dir/neuron.
 
 CMakeFiles/unit_test.dir/neuron.cpp.o.provides.build: CMakeFiles/unit_test.dir/neuron.cpp.o
 
+CMakeFiles/unit_test.dir/twoneurons.cpp.o: CMakeFiles/unit_test.dir/flags.make
+CMakeFiles/unit_test.dir/twoneurons.cpp.o: ../twoneurons.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/unit_test.dir/twoneurons.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/unit_test.dir/twoneurons.cpp.o -c /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp
+
+CMakeFiles/unit_test.dir/twoneurons.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_test.dir/twoneurons.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp > CMakeFiles/unit_test.dir/twoneurons.cpp.i
+
+CMakeFiles/unit_test.dir/twoneurons.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_test.dir/twoneurons.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp -o CMakeFiles/unit_test.dir/twoneurons.cpp.s
+
+CMakeFiles/unit_test.dir/twoneurons.cpp.o.requires:
+.PHONY : CMakeFiles/unit_test.dir/twoneurons.cpp.o.requires
+
+CMakeFiles/unit_test.dir/twoneurons.cpp.o.provides: CMakeFiles/unit_test.dir/twoneurons.cpp.o.requires
+	$(MAKE) -f CMakeFiles/unit_test.dir/build.make CMakeFiles/unit_test.dir/twoneurons.cpp.o.provides.build
+.PHONY : CMakeFiles/unit_test.dir/twoneurons.cpp.o.provides
+
+CMakeFiles/unit_test.dir/twoneurons.cpp.o.provides.build: CMakeFiles/unit_test.dir/twoneurons.cpp.o
+
 CMakeFiles/unit_test.dir/network.cpp.o: CMakeFiles/unit_test.dir/flags.make
 CMakeFiles/unit_test.dir/network.cpp.o: ../network.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/unit_test.dir/network.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/unit_test.dir/network.cpp.o -c /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/network.cpp
 
@@ -97,7 +120,7 @@ CMakeFiles/unit_test.dir/network.cpp.o.provides.build: CMakeFiles/unit_test.dir/
 
 CMakeFiles/unit_test.dir/unitTest.cpp.o: CMakeFiles/unit_test.dir/flags.make
 CMakeFiles/unit_test.dir/unitTest.cpp.o: ../unitTest.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/unit_test.dir/unitTest.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/unit_test.dir/unitTest.cpp.o -c /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/unitTest.cpp
 
@@ -121,6 +144,7 @@ CMakeFiles/unit_test.dir/unitTest.cpp.o.provides.build: CMakeFiles/unit_test.dir
 # Object files for target unit_test
 unit_test_OBJECTS = \
 "CMakeFiles/unit_test.dir/neuron.cpp.o" \
+"CMakeFiles/unit_test.dir/twoneurons.cpp.o" \
 "CMakeFiles/unit_test.dir/network.cpp.o" \
 "CMakeFiles/unit_test.dir/unitTest.cpp.o"
 
@@ -128,6 +152,7 @@ unit_test_OBJECTS = \
 unit_test_EXTERNAL_OBJECTS =
 
 unit_test: CMakeFiles/unit_test.dir/neuron.cpp.o
+unit_test: CMakeFiles/unit_test.dir/twoneurons.cpp.o
 unit_test: CMakeFiles/unit_test.dir/network.cpp.o
 unit_test: CMakeFiles/unit_test.dir/unitTest.cpp.o
 unit_test: CMakeFiles/unit_test.dir/build.make
@@ -143,6 +168,7 @@ CMakeFiles/unit_test.dir/build: unit_test
 .PHONY : CMakeFiles/unit_test.dir/build
 
 CMakeFiles/unit_test.dir/requires: CMakeFiles/unit_test.dir/neuron.cpp.o.requires
+CMakeFiles/unit_test.dir/requires: CMakeFiles/unit_test.dir/twoneurons.cpp.o.requires
 CMakeFiles/unit_test.dir/requires: CMakeFiles/unit_test.dir/network.cpp.o.requires
 CMakeFiles/unit_test.dir/requires: CMakeFiles/unit_test.dir/unitTest.cpp.o.requires
 .PHONY : CMakeFiles/unit_test.dir/requires
