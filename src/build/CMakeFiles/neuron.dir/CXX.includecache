@@ -57,6 +57,8 @@ neuron.hpp
 /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/neuron.hpp
 vector
 -
+cmath
+-
 
 /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/twoneurons.cpp
 iostream

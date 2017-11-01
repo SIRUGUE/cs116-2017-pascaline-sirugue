@@ -11,6 +11,7 @@ spikes= data2[:,][:,1]
 
 a=plt.subplot(2,1,1)
 plt.scatter(time1, neuron, s=5, c='blue')
+plt.xlim(0,100)
 plt.ylim(0,50)
 plt.ylabel('neuron number')
 plt.xlabel('time in ms')
@@ -19,6 +20,7 @@ plt.xlabel('time in ms')
 
 b=plt.subplot (2,1,2, sharex=a)
 plt.plot(time2, spikes, c='blue')
+plt.xlim(0,100)
 plt.ylabel('number of spikes')
 plt.xlabel('time in ms')
 plt.show()

@@ -91,8 +91,8 @@ clean: CMakeFiles/neuron.dir/clean
 # Target rules for target CMakeFiles/unit_test.dir
 
 # All Build rule for target.
-CMakeFiles/unit_test.dir/all: gtest/CMakeFiles/gtest.dir/all
 CMakeFiles/unit_test.dir/all: gtest/CMakeFiles/gtest_main.dir/all
+CMakeFiles/unit_test.dir/all: gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/unit_test.dir/build.make CMakeFiles/unit_test.dir/depend
 	$(MAKE) -f CMakeFiles/unit_test.dir/build.make CMakeFiles/unit_test.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/INTRANET/sirugue/myfiles/cpp/ba3/cs116-2017-pascaline-sirugue/src/build/CMakeFiles  7 8 9 10
